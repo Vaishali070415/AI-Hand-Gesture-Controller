@@ -6,7 +6,7 @@ An AI-powered hand gesture recognition system that detects hand gestures in real
 
 - Real-time hand tracking
 - Custom gesture recognition
-- 99.18% Model Accuracy
+- 97.86% Model Accuracy
 - Keyboard automation
 - Machine Learning based prediction
 - Live webcam inference
